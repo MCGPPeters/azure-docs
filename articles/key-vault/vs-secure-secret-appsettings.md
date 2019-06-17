@@ -94,7 +94,7 @@ If you are writing a quick prototype and don't want to provision Azure resources
 
 1. Install the following NuGet package to your project
     ```
-    Microsoft.Configuration.ConfigurationBuilders.Basic
+    Microsoft.Configuration.ConfigurationBuilders.Base
     ```
 
 2. Create a file that's similar to the follow. Save it under a location outside of your project folder.
